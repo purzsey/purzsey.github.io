@@ -11520,7 +11520,7 @@ body {
     color: rgba(255, 255, 255, 0.75);
   }
   #mainNav .nav-link:active {
-    color: #bf1333;
+    color: #fff;
   }
   #mainNav.navbar-shrink {
     background-color: #e3dcde;
@@ -11537,7 +11537,7 @@ body {
     color: #bf1333;
   }
   #mainNav.navbar-shrink .nav-link:active {
-    color: #bf1333;
+    color: #a8133d;
   }
   #mainNav.navbar-shrink .nav-link.active {
     color: #bf1333;
